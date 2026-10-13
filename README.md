@@ -4,7 +4,7 @@ This repository contains the problem instances used in the computational study o
  **Job-shop scheduling with tool wear: Minimizing replacement events under completion-time constraints** 
 
 
-**Simon Emde and Humyun Fuad Rahman**,  
+**Simon Emde and Humyun Fuad Rahman**  
 
 The repository provides the benchmark and sensitivity-analysis instances used in the study so that the computational experiments can be inspected and reproduced.
 
