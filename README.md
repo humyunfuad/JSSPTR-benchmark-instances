@@ -1,4 +1,4 @@
-# JSSPTS Benchmark Instances
+# JSSPTR Benchmark Instance
 
 This repository contains the problem instances used in the computational study of the associated manuscript
  **Job-shop scheduling with tool wear: Minimizing replacement events under completion-time constraints** 
